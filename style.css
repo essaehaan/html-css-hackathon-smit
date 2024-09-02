@@ -209,7 +209,10 @@
     .navbar-container input[type="checkbox"]:checked ~ .logo{
         display: none;
     }
-
+.input-group{
+    display:flex;
+    flex-direction:column !important;
+}
     h3.acc-num {
         font-size: 21px !important;
         padding-right: 16px !important;
