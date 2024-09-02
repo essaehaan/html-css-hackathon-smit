@@ -213,6 +213,12 @@
     display:flex;
     flex-direction:column !important;
 }
+   .input-group .form-control{
+       width:100% !important;
+   }
+    .input-group .btn-subs{
+        width:100% !important;
+    }
     h3.acc-num {
         font-size: 21px !important;
         padding-right: 16px !important;
